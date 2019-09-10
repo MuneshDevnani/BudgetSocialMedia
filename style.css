@@ -1,0 +1,109 @@
+.navtitle{
+    left: 505px;
+    font: bold 18px/23px Proxima Nova;
+    letter-spacing: 0;
+    color: #1C0905;
+    opacity: 1;
+    margin-left: 20px;
+}
+.navlogo{
+    height: 45px;
+}
+.btncontact{
+    background: #FF5931;
+}
+.title{
+    font: Bold 36px/44px Proxima Nova;
+    letter-spacing: 0;
+    letter-spacing: 0;
+    color: #1C0905;
+    opacity: 1;
+}
+.WWDcard{
+    width: 17rem;
+}
+.btnCYP{
+    background-image: linear-gradient(to right, #F83600 , #FA7F18, #FDC830);
+    width: 200px;
+}
+
+.btnGIT{
+    width: 200px;
+}
+.cardtitle{
+    font: Semibold 24px/29px Proxima Nova;
+letter-spacing: 0;
+color: #1C0905;
+opacity: 1;
+}
+.successcard{
+width: 270px;
+height: 294px;
+border-radius: 2px;
+opacity: 1;
+margin-bottom: 100px;
+}
+.SDEtitle{
+   color: #FF5931; 
+}
+.testimonial{
+width: 700px;
+height: 360px;
+background: transparent url('./images/pixzolo-photography-OPncjOLjXis-unsplash.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.testimonialcard{
+width: 270px;
+height: 300px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 4px 14px #0000001F;
+opacity: 1;
+margin-bottom: 80px;
+}
+.recordcontainer{
+background: #FF5931 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-top: 200px;
+position: relative;
+}
+.recordcontainer ul li h1{
+width: 140px;
+height: 72px;
+text-align: center;
+font: Bold 64px/24px Proxima Nova;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+margin-left: 90px;
+}
+.recordcontainer ul li p{
+width: 140px;
+height: 64px;
+text-align: center;
+font:  24px/32px Proxima Nova;
+letter-spacing: 0;
+color: #FFFFFF;
+opacity: 1;
+margin-left: 90px;
+}
+.btnprojects{
+    text-align: center;
+}
+.contactpic{
+    height: 350px;
+    width: 450px;
+    display: inline-block;
+    margin-right: 50px;
+}
+.btnMessage{
+    width: 420px;
+}
+.contactForm{
+    height: 600px;
+    width: 600px;
+    display: inline-block;
+}
+.hrBottom {
+     background-color: white;
+      height: 1px; border: 0;
+ }
