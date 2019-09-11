@@ -47,8 +47,6 @@ margin-bottom: 100px;
    color: #FF5931; 
 }
 .testimonial{
-width: 700px;
-height: 360px;
 background: transparent url('./images/pixzolo-photography-OPncjOLjXis-unsplash.png') 0% 0% no-repeat padding-box;
 opacity: 1;
 }
@@ -63,8 +61,6 @@ margin-bottom: 80px;
 .recordcontainer{
 background: #FF5931 0% 0% no-repeat padding-box;
 opacity: 1;
-margin-top: 200px;
-position: relative;
 }
 .recordcontainer ul li h1{
 width: 140px;
